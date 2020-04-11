@@ -20,20 +20,16 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'FS_METHOD', 'direct' );
-
-// ** MySQL settings - You can get this info from your web host ** //
-/** The name of the database for WordPress */
-define( 'DB_NAME', 'heroku_ec12fa5bfd9a0b6' );
+define( 'DB_NAME', 'rrmj1x618ilzc6yj' );
 
 /** MySQL database username */
-define( 'DB_USER', 'bf10ca67df35f1' );
+define( 'DB_USER', 'y0hj7yezc6dfxovy' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '38e204b1' );
+define( 'DB_PASSWORD', 'nhd0c6a0vn0gg7bp' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'us-cdbr-iron-east-01.cleardb.net' );
+define( 'DB_HOST', 'i943okdfa47xqzpy.cbetxkdyhwsb.us-east-1.rds.amazonaws.com' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
